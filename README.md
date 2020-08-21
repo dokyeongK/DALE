@@ -1,7 +1,7 @@
 # DALE : Dark Region-Aware Low-light Image Enhancement (BMVC 2020)
 
 ## Introduction
-This repository is an official Pytorch implement of the paper "DALEDark Region-Aware Low-light Image Enhancement" from [BMVC2020](https://bmvc2020.github.io/). 
+This repository is an official Pytorch implement of the paper "DALE: Dark Region-Aware Low-light Image Enhancement" from [BMVC2020](https://bmvc2020.github.io/). 
 
 ## Code
 
