@@ -2,11 +2,14 @@
 ## Introduction
 This repository is an official Pytorch implement of the paper "DALE: Dark Region-Aware Low-light Image Enhancement" from [BMVC2020](https://bmvc2020.github.io/). 
 
+📣[paper](https://arxiv.org/abs/2008.12493)
+
 ### Main Contribution
 
 Proposed a new attention module to recognize dark areas.
 
 Propose a novel low-light enhancement method using the proposed dark-aware [visual attention](#visual-attention-map).
+
 
 ### Network
 ![DALE_network](https://user-images.githubusercontent.com/28749482/90978985-a7b41300-e58c-11ea-9b81-c0b6e4afdcf4.JPG)
