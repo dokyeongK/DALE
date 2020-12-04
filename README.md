@@ -18,7 +18,7 @@ Propose a novel low-light enhancement method using the proposed dark-aware [visu
 ![DALE_visual_attention_map](https://user-images.githubusercontent.com/28749482/90980969-50686f80-e599-11ea-8ba4-526152f79397.JPG)
 
 ## Code
-model & test code : TBC😅
+model & test code : Now Updated! 🎈
 
 ### Requirements
 ![](https://img.shields.io/badge/OS-Win10-green.svg) 
